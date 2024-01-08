@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andre</h1>
+<h1 align="center">Hi 👋, I'm André</h1>
 <h3 align="center">42 Porto Student | C and C++ Junior Developer</h3>
 
 # 💫 About Me:
