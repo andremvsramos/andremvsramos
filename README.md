@@ -2,7 +2,7 @@
 <h3 align="center">42 Porto Student | C and C++ Junior Developer</h3>
 
 # 💫 About Me:
-🎓 42 Porto student<br>🌱 I’m currently learning C++<br>🔭 I’m currently trying my hand at Godot and GDScript<br>💬 Ask me about 42 Network and Projects, C/C++
+🎓 42 Porto student<br>🌱 I’m currently learning C++<br>💬 Ask me about 42 Network and Projects, C/C++
 
 
 ## 🌐 Socials:
