@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<h3 align="center">42 Porto Student | C and C++ Junior Developer</h3>
+<h3 align="center">42 Porto Student | C / C++ / Python Junior Developer</h3>
 
 # 💫 About Me:
-🎓 42 Porto student<br>🌱 I’m currently learning C++<br>💬 Ask me about 42 Network and Projects, C/C++
+🎓 42 Porto student<br>🌱 I’m currently learning Python<br>💬 Ask me about 42 Network and Projects, C/C++
 
 
 ## 🌐 Socials:
