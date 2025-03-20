@@ -2,7 +2,10 @@
 <h3 align="center">42 Porto Student | C / C++ / Python Junior Developer</h3>
 
 # 💫 About Me:
-🎓 42 Porto student<br>🌱 I’m currently learning Python<br>💬 Ask me about 42 Network and Projects, C/C++
+🎮 **Software Developer** with a focus on system-level programming, game development, and web technologies  
+🌱 Currently working with **C/C++, Python, Docker, Unity**, and **game audio production**  
+🎧 **Founder & Contributor** at [GAMR](https://gamreviews.wixsite.com/gamrreviews)  
+💬 Feel free to reach out about **development**, **gaming**, or **audio production**  
 
 
 ## 🌐 Socials:
