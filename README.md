@@ -10,10 +10,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremvsramos/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/crazyhound.778/)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@crazyhound778)  
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-%23FF5500.svg?logo=soundcloud&logoColor=white)](https://soundcloud.com/doki_productions)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremvsramos/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/crazyhound.778/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@crazyhound778) [![SoundCloud](https://img.shields.io/badge/SoundCloud-%23FF5500.svg?logo=soundcloud&logoColor=white)](https://soundcloud.com/doki_productions)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%23121011.svg?style=for-the-badge&logo=docker&logoColor=light_blue) ![Dockerfile](https://img.shields.io/badge/dockerfile-%23121011.svg?style=for-the-badge&logo=docker&logoColor=light_blue) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-%23316192.svg?style=for-the-badge&logo=mariadb&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23316192.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Dockerfile](https://img.shields.io/badge/wordpress-%23316192.svg?style=for-the-badge&logo=wordpress&logoColor=light_blue)
