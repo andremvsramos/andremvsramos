@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<h3 align="center">42 Porto Student | C / C++ / Python Junior Developer</h3>
+<h3 align="center">Junior Software Developer | C, C++, C#, Python, Unity | Game Development | Audio Producer & Sound Designer | Founder, Writer, Developer & Manager at GAMR</h3>
 
 # 💫 About Me:
 🎮 **Software Developer** with a focus on system-level programming, game development, and web technologies  
