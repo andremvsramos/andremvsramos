@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🎮 **Software Developer** with a focus on system-level programming, game development, and web technologies </bl> 
-🌱 Currently working with **C/C++, Python, Docker, Unity**, and **game audio production**  
+🌱 Currently working with **C/C++, Python, Docker, Unity**, and **game audio production**  </bl> 
 🎮 **Founder & Contributor** at [GAMR](https://gamreviews.wixsite.com/gamrreviews)
 🎮 **Freelance writter** at [Meus Jogos](https://meusjogos.pt)
 🎧 **Music Producer** & **Sound Designer** - Creating original music and sound design for games and media
