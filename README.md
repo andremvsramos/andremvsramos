@@ -4,7 +4,8 @@
 # 💫 About Me:
 🎮 **Software Developer** with a focus on system-level programming, game development, and web technologies  
 🌱 Currently working with **C/C++, Python, Docker, Unity**, and **game audio production**  
-🎧 **Founder & Contributor** at [GAMR](https://gamreviews.wixsite.com/gamrreviews)
+🎮 **Founder & Contributor** at [GAMR](https://gamreviews.wixsite.com/gamrreviews)
+🎮 **Freelance writter** at [Meus Jogos](https://meusjogos.pt)
 🎧 **Music Producer** & **Sound Designer** - Creating original music and sound design for games and media
 🎮 I also stream games and gaming events on Twitch
 💬 Feel free to reach out about **development**, **gaming**, or **audio production**  
