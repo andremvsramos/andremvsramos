@@ -2,7 +2,7 @@
 <h3 align="center">Junior Software Developer | C, C++, C#, Python, Unity | Game Development | Audio Producer & Sound Designer | Founder, Writer, Developer & Manager at GAMR</h3>
 
 # 💫 About Me:
-🎮 **Software Developer** with a focus on system-level programming, game development, and web technologies  
+🎮 **Software Developer** with a focus on system-level programming, game development, and web technologies </bl> 
 🌱 Currently working with **C/C++, Python, Docker, Unity**, and **game audio production**  
 🎮 **Founder & Contributor** at [GAMR](https://gamreviews.wixsite.com/gamrreviews)
 🎮 **Freelance writter** at [Meus Jogos](https://meusjogos.pt)
